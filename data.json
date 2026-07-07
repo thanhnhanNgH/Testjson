@@ -1,1 +1,41 @@
 
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyen Van An",
+      "email": "nguyenvanan@gmail.com",
+      "phone": "35355454",
+      "avatar": "https://example.com/avatar/an.jpg",
+      "dateOfBirth": "1990-05-15T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Xuan Anh",
+      "email": "tranvanan@gmail.com",
+      "phone": "454645",
+      "avatar": "https://example.com/avatar/an.jpg",
+      "dateOfBirth": "1990-05-15T00:00:00.000Z"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "nguyenvanan",
+      "password": "An?123456",
+      "status": "active",
+      "lastLogin": "2023-04-02T08:15:30.000Z",
+      "createdAt": "1990-05-15T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "username": "tranthibinh",
+      "password": "Binh@123456",
+      "status": "active",
+      "lastLogin": "2023-04-06T14:22:10.000Z",
+      "createdAt": "2023-07-22T08:00:00.000Z"
+    }
+  ]
+}
